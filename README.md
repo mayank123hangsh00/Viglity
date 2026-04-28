@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-> Deploy URL goes here after Render/Vercel deployment
+👉 **[https://viglity.vercel.app](https://viglity.vercel.app)**
 
 ---
 
