@@ -10,6 +10,14 @@
 
 👉 **[https://viglity.vercel.app](https://viglity.vercel.app)**
 
+## Screenshots
+
+![Login Page](assets/login.png)
+
+![Dashboard Main View](assets/dashboard_1.png)
+
+![Dashboard Filtered View](assets/dashboard_2.png)
+
 ---
 
 ## Quick Start (Local)
